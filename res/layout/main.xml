@@ -26,5 +26,12 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:text="3. Scale Types"/>
-
+    <Button
+            android:id="@+id/button4"
+            android:onClick="ButtonClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="4. ListView"
+            />
 </LinearLayout>

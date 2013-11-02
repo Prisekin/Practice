@@ -10,4 +10,32 @@
     <item>FIT_XY</item>
     <item>MATRIX</item>
 </string-array>
+    <string-array name="listview_strings">
+        <item>First item</item>
+        <item>Second item</item>
+        <item>Third item</item>
+        <item>Fourth item</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight string</item>
+        <item>bla bla bla</item>
+        <item>tra ta ta</item>
+        <item>Something string</item>
+        <item>Unknown string</item>
+        <item>String before last</item>
+        <item>Last string</item>
+    </string-array>
+    <string-array name="text_hints">
+        <item>http://google.com</item>
+        <item>http://developer.android.com</item>
+        <item>http://stackoverflow.com</item>
+        <item>Simple string</item>
+        <item>https://github.com</item>
+        <item>astronet.ru</item>
+        <item>gismeteo.ru</item>
+        <item>ngs.ru</item>
+        <item>vk.com/feed</item>
+        <item>www.mdm.ru</item>
+    </string-array>
 </resources>

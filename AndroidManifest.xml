@@ -27,6 +27,7 @@
         <activity android:name=".Second" android:label="2.Listeners"></activity>
         <activity android:name=".Third" android:label="3.Scale Types"></activity>
         <activity android:name=".WebHelp" android:label="Web Help"></activity>
+        <activity android:name=".FourthListView" android:label="4.ListView"></activity>
     </application>
 
 </manifest>
